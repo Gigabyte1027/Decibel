@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <line fill="none" id="svg_6" stroke="currentColor" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="null" stroke-width="1.5" x1="12" x2="12" y1="16.59" y2="20.33"/>
+  <line fill="none" fill-opacity="null" id="svg_8" stroke="currentColor" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="null" stroke-width="1.5" x1="8.53" x2="15.45" y1="16.41" y2="16.41"/>
+  <line fill="none" fill-opacity="null" id="svg_10" stroke="currentColor" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" x1="8.53" x2="8.53" y1="16.41" y2="8.18"/>
+  <line fill="none" fill-opacity="null" id="svg_11" stroke="currentColor" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="null" stroke-width="1.5" x1="15.44" x2="15.44" y1="16.41" y2="8.18"/>
+  <path d="m8.53,8.24c0,0.02 -0.08,-3.73 3.44,-3.74c3.52,-0.01 3.46,3.73 3.46,3.73" fill="none" id="svg_14" stroke="currentColor" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <line fill="none" fill-opacity="null" id="svg_15" stroke="currentColor" stroke-dasharray="null" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" stroke-width="1.5" x1="12" x2="12" y1="18" y2="7.79"/>
+ </g>
+
+</svg>

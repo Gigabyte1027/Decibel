@@ -1,0 +1,15 @@
+{
+  "name": "decibel",
+  "version": "1.0.0",
+  "description": "A music player fueled by pure boredom",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Gigabyte1027",
+  "license": "MIT",
+  "icon": "images/icon.ico",
+  "dependencies": {
+    "jsmediatags": "^3.9.7"
+  }
+}
